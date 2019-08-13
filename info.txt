@@ -1,0 +1,5 @@
+url git donde se almacenara: https://github.com/rogerpad/proyect-cndh
+
+npm install --save sequelize: utilizada para realizar ORM y conexion a la base de datos.
+npm install --save tedious
+
