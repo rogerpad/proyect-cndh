@@ -1,0 +1,10 @@
+Componentes:
+AppBar: barra superior.
+cajon responsivo: para el menu desplegable a la derecha.
+
+Instalar en el cliente:
+
+npm create-react-app 
+npm install @material-ui/core
+npm install @material-ui/icons
+
